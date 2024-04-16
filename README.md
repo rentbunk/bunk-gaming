@@ -79,7 +79,7 @@ The Home page and Platform Games page both show a list of Games, but each has it
 
 There is a proposed design below, but most of the information can be excluded for the simple card.
 
-<img src="./doc-assets/game-page-design.png" alt="" width="200" />
+<img src="./doc-assets/game-card-design.png" alt="" width="200" />
 
 #### Requirements:
 
